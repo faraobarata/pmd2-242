@@ -1,2 +1,2 @@
 # Aluno: Pedro de Almeida Conde Rocha <h1>
-### Professor: Ricardo Duarte Taveira <h3>
+### Atividade-02 <h3>
