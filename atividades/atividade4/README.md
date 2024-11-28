@@ -1,4 +1,4 @@
-# Atividade04 de Pdm2 <h>
+# Atividade04 de Pdm2 
 
 * Aluno: Pedro de Almeida Conde Rocha 
 * Professor: Ricardo Duarte Taveira
